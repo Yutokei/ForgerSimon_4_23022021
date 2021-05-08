@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -692,7 +692,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #000000!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -736,7 +736,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .portfolio-thumb {
@@ -771,21 +771,21 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #fd7e14;
+    background-color: #F3976C;
 }
 
 .tc-white {
-    color: #fd7e14!important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
-    background: #fd7e14;
-    color: #FFFFFF!important;
+    background: #F3976C;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white {
@@ -797,7 +797,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #fd7e14!important;
+    color: #F3976C!important;
 }
 
 .ltc-atomic-tangerine:hover {
