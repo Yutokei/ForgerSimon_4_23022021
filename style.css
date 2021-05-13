@@ -747,7 +747,6 @@ h4 {
 
 .portfolio-thumb {
     margin: auto auto 20px auto;
-    aspect-ratio: attr(width) / attr(height);
 }
 
 .portfolio-row {
@@ -817,11 +816,11 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/webp/dots-bg.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/webp/lines-h2-bg.webp");
 }
 
 .bg-banniere {
@@ -1033,6 +1032,12 @@ h4 {
         width: 180px;
         height: 320px;
     }
+}
+
+.contact-flexbox
+{
+    display: flex;
+    flex-flow: column nowrap;
 }
 
 @media (max-width: 400px) {
