@@ -742,7 +742,8 @@ h4 {
 }
 
 .white {
-    color: #000000!important;
+    color: white !important;
+    font-size: 16.5px;
 }
 
 .portfolio-thumb {
@@ -824,11 +825,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/webp/la-chouette-agence-banniere.webp");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url("img/webp/la-chouette-agence-banniere.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/webp/image-de-presentation.webp");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url("img/webp/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
