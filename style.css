@@ -747,7 +747,7 @@ h4 {
 
 .portfolio-thumb {
     margin: auto auto 20px auto;
-    aspect-ratio: attr(270) / attr(270);
+    aspect-ratio: attr(width) / attr(height);
 }
 
 .portfolio-row {
