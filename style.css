@@ -708,6 +708,9 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
 }
 
 h2 {
