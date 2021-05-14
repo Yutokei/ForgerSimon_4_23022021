@@ -1038,7 +1038,7 @@ h4 {
     }
 }
 
-.contact-flexbox
+.column-flexbox
 {
     display: flex;
     flex-flow: column nowrap;
